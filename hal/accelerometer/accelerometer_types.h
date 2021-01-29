@@ -1,0 +1,15 @@
+/*
+ * accelerometer_types.h
+ *
+  Created on: Jul 8, 2020
+ *      Author: nada alaa
+ */
+
+#ifndef TM4C123_FIRMWARE_HAL_ACCELEROMETER_ACCELEROMETER_TYPES_H_
+#define TM4C123_FIRMWARE_HAL_ACCELEROMETER_ACCELEROMETER_TYPES_H_
+
+
+
+
+
+#endif /* TM4C123_FIRMWARE_HAL_ACCELEROMETER_ACCELEROMETER_TYPES_H_ */
